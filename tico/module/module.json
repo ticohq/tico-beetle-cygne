@@ -1,0 +1,55 @@
+{
+  "id": "beetle_cygne",
+  "name": "Beetle Cygne",
+  "nro": "tico-beetle-cygne.nro",
+  "launch": "\"{nro}\" \"{slug}\" \"{rom}\" \"{title}\"",
+  "settings": "config/modules/beetle_cygne/settings.json",
+  "config_file": "beetle_cygne.jsonc",
+  "system_dir": "beetle_cygne",
+  "is_libretro": true,
+  "achievements": true,
+  "systems": [
+    {
+      "slug": "ws",
+      "title": "WonderSwan",
+      "short_title": "WS",
+      "extensions": [
+        ".ws",
+        ".wsc",
+        ".pc2",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "games_file": "ws.dat",
+      "retroachievements_id": 53,
+      "colors": {
+        "start": "8C9BB0",
+        "end": "5F6E8C",
+        "start_dark": "626D7C",
+        "end_dark": "424D63"
+      }
+    },
+    {
+      "slug": "wsc",
+      "title": "WonderSwan Color",
+      "short_title": "WSC",
+      "extensions": [
+        ".ws",
+        ".wsc",
+        ".pc2",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "games_file": "wsc.dat",
+      "retroachievements_id": 53,
+      "colors": {
+        "start": "9B6FE6",
+        "end": "5F8CE6",
+        "start_dark": "6C4EA8",
+        "end_dark": "4262A8"
+      }
+    }
+  ]
+}
