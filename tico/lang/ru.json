@@ -177,5 +177,6 @@
     "settings_beetle_cygne_value_top_left": "Сверху слева",
     "settings_beetle_cygne_value_top_right": "Сверху справа",
     "settings_beetle_cygne_value_unlimited": "Без ограничений",
-    "settings_beetle_cygne_value_up": "Вверх"
+    "settings_beetle_cygne_value_up": "Вверх",
+    "emulator_quick_menu_tip": "Нажмите {plus} и {minus} вместе, чтобы открыть быстрое меню"
 }

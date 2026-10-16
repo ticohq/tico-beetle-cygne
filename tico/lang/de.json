@@ -190,5 +190,6 @@
     "settings_beetle_cygne_value_top_right": "Oben rechts",
     "settings_beetle_cygne_value_travel_wood": "Reiseholz",
     "settings_beetle_cygne_value_unlimited": "Unbegrenzt",
-    "settings_beetle_cygne_value_up": "Oben"
+    "settings_beetle_cygne_value_up": "Oben",
+    "emulator_quick_menu_tip": "Drücke {plus} und {minus} gleichzeitig, um das Schnellmenü zu öffnen"
 }

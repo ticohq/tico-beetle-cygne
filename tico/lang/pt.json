@@ -193,5 +193,6 @@
     "settings_beetle_cygne_value_up": "Cima",
     "settings_beetle_cygne_value_ws_swancrystal": "WS — SwanCrystal",
     "settings_beetle_cygne_value_ws_wonderswan": "WS — WonderSwan",
-    "settings_beetle_cygne_value_ws_wonderswan_color": "WS — WonderSwan Color"
+    "settings_beetle_cygne_value_ws_wonderswan_color": "WS — WonderSwan Color",
+    "emulator_quick_menu_tip": "Aperte {plus} e {minus} juntos para abrir o menu rápido"
 }

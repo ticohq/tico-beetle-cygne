@@ -191,5 +191,6 @@
     "settings_beetle_cygne_value_top_right": "En haut à droite",
     "settings_beetle_cygne_value_travel_wood": "Bois des voyages",
     "settings_beetle_cygne_value_unlimited": "Illimité",
-    "settings_beetle_cygne_value_up": "Haut"
+    "settings_beetle_cygne_value_up": "Haut",
+    "emulator_quick_menu_tip": "Appuyez sur {plus} et {minus} ensemble pour ouvrir le menu rapide"
 }
