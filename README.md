@@ -27,6 +27,16 @@ It adds:
 
 ----------
 
+## Credits
+
+This fork is built on top of Beetle Cygne, the libretro port of Mednafen's WonderSwan module, which grew out of Cygne by Dox.
+All core emulation work belongs to the Mednafen and Cygne authors and contributors.
+
+- **Mednafen website** — https://mednafen.github.io
+- **libretro Beetle Cygne** — https://github.com/libretro/beetle-wswan-libretro
+
+----------
+
 ## A Note
 
 A lot of work in this scene disappears over time — not because it lacked value, but because it was never shared.
